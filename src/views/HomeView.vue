@@ -11,7 +11,7 @@ import LawyerSearchBar from "@/components/LawyerSearchBar.vue";
       <LawyerSearchBar />
     </div>
     <div class="grid grid-cols-1 md:grid-cols-8 px-5 md:px-16 gap-5">
-      <div class="md:col-span-6 col-span-1">
+      <div class="md:col-span-8 lg:col-span-6 col-span-1">
         <p class="mb-2 text-gray-400 font-xs text-right">
           Top Rated = Sponsored Selectees <i class="pi pi-info-circle"></i>
         </p>
@@ -19,7 +19,7 @@ import LawyerSearchBar from "@/components/LawyerSearchBar.vue";
         <LawFirmCard :top-searched="true" />
         <LawFirmCard />
       </div>
-      <div class="md:col-span-2 col-span-1">
+      <div class="md:col-span-8 lg:col-span-2 col-span-1">
         <AboutUsCard />
         <IntrestingInfo />
       </div>
