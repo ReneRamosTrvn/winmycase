@@ -12,7 +12,7 @@
           >
           <input
             id="legal-issue"
-            className="bg-indigo-200 w-full rounded-full border-2 border-indigo-400"
+            className="bg-[#F4F4F4] w-full rounded-full border-2 border-indigo-400"
             type="text"
           />
         </div>
@@ -24,13 +24,13 @@
           >
           <input
             id="location"
-            className="bg-indigo-200 w-full rounded-full border-2 border-indigo-400"
+            className="bg-[#F4F4F4] w-full rounded-full border-2 border-indigo-400"
             type="text"
           />
         </div>
         <div className="flex items-end">
           <button
-            className="bg-indigo-600 px-4 py-2 font-bold text-white rounded-full w-full"
+            className="bg-[#2C8D80] px-4 py-2 font-bold text-white rounded-full w-full"
           >
             Find a Lawyer
           </button>
