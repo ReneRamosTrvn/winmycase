@@ -50,7 +50,7 @@ var lawyerInfo = {
           <button
             class="bg-[#35A898] rounded-full text-white px-8 py-2 hover:bg-[#2C8D80] transition-colors duration-150 w-full lg:w-auto"
           >
-            Call Now
+            Call {{ lawyerInfo.name }} Now
           </button>
           <button
             class="bg-[#35A898] rounded-full text-white px-8 py-2 hover:bg-[#2C8D80] transition-colors duration-150 w-full lg:w-auto"
