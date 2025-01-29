@@ -12,7 +12,7 @@
           >
           <input
             id="legal-issue"
-            className="bg-[#F4F4F4] w-full rounded-full border-2 border-indigo-400"
+            className="bg-[#F4F4F4] w-full rounded-full border-2 border-[#2C8D80]"
             type="text"
           />
         </div>
@@ -24,7 +24,7 @@
           >
           <input
             id="location"
-            className="bg-[#F4F4F4] w-full rounded-full border-2 border-indigo-400"
+            className="bg-[#F4F4F4] w-full rounded-full border-2 border-[#2C8D80]"
             type="text"
           />
         </div>
