@@ -4,7 +4,7 @@
   <main>
     <div class="bg-indigo-200 p-5 rounded-3xl">
       <p class="text-3xl font-bold text-center text-gray-800 mb-3">
-        Intresting Information About
+        Interesting Information About
         <span class="text-indigo-900 font-black">Personal Injury</span>
       </p>
       <p class="text-gray-800 text-md font-semibold">
