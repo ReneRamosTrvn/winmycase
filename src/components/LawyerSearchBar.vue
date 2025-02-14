@@ -38,7 +38,7 @@
       </div>
       <p className="text-gray-500 text-xs">
         Enter information in at least one field
-        <span className="text-red-400">(required)</span>
+        <span className="text-red-400">(Required)</span>
       </p>
     </div>
   </main>
